@@ -1,2 +1,2 @@
-# speech_automated_menu
+# Technologies are automated through voice assistant
 Integration of various technologies
